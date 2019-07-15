@@ -1,5 +1,5 @@
 {
-  "name": "A Princess of Mars",
+  "name": "John Carter",
   "type": "novel",
   "has_page_numbers": true,
   "mode": {
@@ -9,7 +9,7 @@
     "HEAD": "html"
   },
   "cover": {
-    "punchline": "",
+    "punchline": "And a Princess of Mars",
     "toc": "",
     "author_detail": "",
     "colophon": "",
@@ -18,5 +18,5 @@
   "status": "published",
   "asset_url": "https://raw.githubusercontent.com/marvindanig/a-princess-of-mars/master/assets",
   "book_id": 850,
-  "book_url": "https://bubblin.io/book/a-princess-of-mars-by-edgar-rice-burroughs"
+  "book_url": "https://bubblin.io/book/john-carter-by-edgar-rice-burroughs"
 }

@@ -252,22 +252,22 @@ hr::before {
 
 /* Helper classes */
 
-.no-indent {
+p.no-indent {
   text-indent: 0;
   /* Continue line on a new page with break on the previous page. */
 }
 
-.stretch-last-line {
+p.stretch-last-line {
   text-align-last: justify;
   /* Not supported on Safari */
 }
 
-.squeeze-para {
+p.squeeze-para {
   letter-spacing: -0.5px;
   /* Handle orphans and widows manually */
 }
 
-.stretch-para {
+p.stretch-para {
   letter-spacing: 0.5px;
   /* Handle orphans and widows manually */
 }
